@@ -6,14 +6,12 @@ dist/
 wheels/
 *.egg-info
 
-# Virtual environments
-.venv
-
-# uv / venv
+# uv / virtual environments / secrets
 .venv/
 .uv/
+.env
 
-# Data
+# Data (never commit patient-level data)
 data/
 *.db
 *.sqlite
@@ -25,4 +23,10 @@ data/
 
 # Jupyter
 .ipynb_checkpoints/
+*.ipynb.autosave
+
+# Logs / local config
+*.log
+local_settings.py
+config.local.*
 
