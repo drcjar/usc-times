@@ -1,0 +1,73 @@
+Impact of a co-designed streamlined urgent suspected lung cancer pathway on time to diagnosis, investigation, and appointment burden
+
+Background
+Urgent suspected cancer (USC) lung pathways are complex and often fail to meet the Faster Diagnosis Standard (FDS), which is suboptimal for patient experience and outcomes. In August 2025, a streamlined USC lung standard operating procedure (SOP), informed by service-user perspectives, was implemented to prioritise early diagnosis, clear communication and avoidance of waste.
+
+Methods
+We performed a retrospective service evaluation of consecutive USC lung referrals between June and December 2025. Pathway redesign was informed by informal patient and clinician discussions, emphasising shared decision-making, early definitive imaging and fewer routine appointments. Outcomes before and after SOP implementation were compared. Primary outcomes were time from referral to CT chest and to FDS pathway completion; secondary outcomes included appointment and investigation burden.
+
+Results
+A total of 287 completed USC lung pathways were analysed. Key diagnostic timeliness and pathway outcomes before and after SOP implementation are shown in the Table. Improvements were observed in time to CT chest, FDS attainment and investigation burden, without adverse impact on cancer detection.
+
+Outcome
+	
+
+Pre-SOP
+	
+
+Post-SOP
+
+Completed pathways (n)
+	
+
+102
+	
+
+185
+
+Median time to pathway completion (days)
+	
+
+18
+	
+
+16.5
+
+Pathways completed ≤28 days (%)
+	
+
+77.1
+	
+
+80.5
+
+Median time to CT chest (days)
+	
+
+15
+	
+
+5.5
+
+CT chest ≤7 days (%)
+	
+
+5
+	
+
+68.7
+
+Median OP attendances per pathway
+	
+
+1
+	
+
+1
+
+Conclusions
+A consultant-led, service-user-informed USC lung pathway improved diagnostic timeliness and reduced patient burden. Embedding patient priorities into pathway design may enhance efficiency while supporting patient-centred care.
+
+References
+
+1. github.com/drcjar/usc-times
